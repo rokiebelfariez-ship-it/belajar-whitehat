@@ -1,0 +1,6 @@
+https://api-new-sandbox-dev.target.com [404]
+https://demeter.target.com [200] [fieldassessment]
+https://fulfillmentaggregator.global.tgt-pe-prod.gcp.cloud.target.com [403] [403]
+https://guestwifi.target.com [200] [guestwifiui]
+https://redoak.us-central1.tgt-cnf-prod.gcp.cloud.target.com [403] [403]
+http://ttktap.target.com [302]

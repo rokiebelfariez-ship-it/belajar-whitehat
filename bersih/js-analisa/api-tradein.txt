@@ -1,0 +1,23 @@
+https://api-internal.target.com/firefly_internal_events/v1
+https://api-internal.target.com/internal_app_analytics/v3
+https://api.target.com/consumers/v1/ingest/internal/internal_app
+https://api.target.com/firefly_internal_events/v1/external
+https://clienttelemetry-local.prod.target.com/client_telemetry
+https://git.target.com/Firefly/internal-apps-event-schemas
+https://logonservices.iam.perf.target.com/login/responses/logoff.html
+https://oauth.iam.perf.target.com/auth/oauth/v2/authorize
+https://observability.target.com/client_telemetry/v1/logs
+https://observability.target.com/client_telemetry/v1/metrics
+https://observability.target.com/client_telemetry/v1/traces
+https://praxis.prod.target.com/components/authentication#auth-provider
+https://praxis.prod.target.com/security/authentication#sending-tokens-to-a-local-api`),console.groupEnd()},vy=(e,t)=>{if(!e)return null;let n;try{n=new URL(e,window.location.origin)}catch(e){return console.warn(e),null}if(n.searchParams.forEach((e,t)=>{n.searchParams.set(t,e)}),t)for(const[r,o]of Object.entries(t))n.searchParams.set(r,o);return n},yy=(e,t)=>{const n=vy(e,t);return n?n.toString():null},by=e=>{const t=vy(e);return null===t||void 0===t?void 0:t.origin},_y=e=>{const t=vy(e);return t?(t.pathname=
+https://stage-api.target.com/consumers/v1/ingest/internal/internal_app
+https://stage-api.target.com/firefly_internal_events/v1/external
+https://stgapi-internal.target.com/firefly_internal_events/v1
+https://stgapi-internal.target.com/internal_app_analytics/v3
+https://target.scene7.com
+https://target.scene7.com/is/image/Target/
+https://www-uat.target.com/
+https://www.target.com
+https://www.target.com${e}`);if(e.startsWith(
+https://www.target.com/

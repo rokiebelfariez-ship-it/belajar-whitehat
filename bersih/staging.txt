@@ -1,0 +1,2 @@
+https://stage-api.target.com/internal_app_analytics/v3
+https://stgapi-internal.target.com/internal_app_analytics/v3

@@ -1,0 +1,13 @@
+https://api-internal.target.com/internal_app_analytics/v3
+https://api.target.com/internal_app_analytics/v3
+https://logonservices.iam.perf.target.com/login/responses/logoff.html
+https://logonservices.iam.target.com/login/responses/accessdenied.html
+https://oauth.iam.perf.target.com/auth/oauth/v2/authorize
+https://praxis.prod.target.com/components/authentication#auth-provider
+https://praxis.prod.target.com/security/authentication#sending-tokens-to-a-local-api`),console.groupEnd()},st=(e,t)=>{if(!e)return null;let n;try{n=new URL(e,window.location.origin)}catch(e){return console.warn(e),null}if(n.searchParams.forEach(((e,t)=>{n.searchParams.set(t,e)})),t)for(let[r,o]of Object.entries(t))n.searchParams.set(r,o);return n},lt=(e,t)=>{let n=st(e,t);return n?n.toString():null},ct=e=>{const t=st(e);return null===t||void 0===t?void 0:t.origin},ut=e=>{const t=st(e);return t?(t.pathname=
+https://stage-api.target.com/internal_app_analytics/v3
+https://stgapi-internal.target.com/internal_app_analytics/v3
+https://target.cafebonappetit.com/
+https://target.hungerbox.com
+https://target.safetrax.in
+https://targetonline.sharepoint.com/sites/HiTech

@@ -1,0 +1,2 @@
+https://tgtstorage.global.tgt-pe-prod.gcp.cloud.target.com [200]
+https://tgtstorage.global.tgt-pe-test.gcp.cloud.target.com [200]
