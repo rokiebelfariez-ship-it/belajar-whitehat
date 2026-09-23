@@ -1,0 +1,1 @@
+Tech: egsSessionId, JWT, HttpOnly, Secure, SameSite
