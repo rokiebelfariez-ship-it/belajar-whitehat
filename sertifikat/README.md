@@ -1,1 +1,0 @@
-# Koleksi Sertifikat SOC
