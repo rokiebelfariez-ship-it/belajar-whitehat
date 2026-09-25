@@ -1,15 +1,25 @@
 # belajar-whitehat - Rokib Elfariz
 
-## Sertifikat - Urutan Bener: L7 Dulu Baru L1
+Repositori dokumentasi pembelajaran WhiteHat & SOC Analyst - fokus ke reconnaissance yang etis, log analysis, dan threat detection untuk Target.com dalam lingkup program yang sah.
 
-> L7 dapet tgl 24 Sep 2026 duluan, L1/Ijazah tgl 25 Sep 2025 belakangan - file ijazah di dalem folder sertifikat.
+## Tujuan Pembelajaran
+- Memahami 7-phase WhiteHat Recon secara terstruktur
+- Menganalisis log & simulasi serangan (SOC Level 1)
+- Deteksi WAF dan pemetaan environment secara aman
+- Dokumentasi temuan dengan prinsip responsible disclosure
 
-### File Ijazah di folder sertifikat/:
+## Pencapaian
+- **Tahap 7 (L7) - 24 September 2026 - Dapet Duluan:** 7-Phase WhiteHat Recon Program - Target.com
+    - 8,696 Subdomains Discovered
+    - 353 PROD & 98 STAGE Environments
+    - Imperva WAF Detection
+    - Role: SOC Analyst - Reconnaissance & Threat Detection
+- **Tahap 1 (L1) - 25 September 2025 - Ijazah:** Fundamental SOC & Log Analysis
+    - Log Analysis & Attack Simulation
+    - Basic Intrusion Detection
 
-**L7 - Tgl 24 (Dapet Duluan)**
-![L7 Tgl 24](sertifikat/sertifikat-tahap7-terang.jpg)
+Urutan bener: L7 dulu (tgl 24) baru L1/Ijazah (tgl 25). File sertifikat asli ada di folder `sertifikat/`.
 
-**L1 / Ijazah - Tgl 25 (Dapet Belakangan, deket L7)**
-![L1 Tgl 25](sertifikat/sertifikat-tahap1-terang.jpg)
-
-Repo: github.com/rokiebelfariez-ship-it/belajar-whitehat
+## Struktur Folder
+eof
+EOP
