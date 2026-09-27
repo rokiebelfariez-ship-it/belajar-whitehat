@@ -9,3 +9,4 @@ PORT   STATE    SERVICE
 80/tcp open     http
 
 # Nmap done at Thu Sep 24 10:58:38 2026 -- 1 IP address (1 host up) scanned in 2.89 seconds
+belajar PR 28 sept 
