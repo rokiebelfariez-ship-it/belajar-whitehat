@@ -1,7 +1,5 @@
 # belajar-whitehat - Rokib Elfariz
 
-# belajar-whitehat — Rokib Elfariz
-
 > 🇬🇧 **English summary:** This repository documents my WhiteHat & SOC Analyst learning journey: ethical reconnaissance, log analysis, and threat detection. Recon exercises were performed against a lab simulation environment (`target-lab.local`), never against real company infrastructure — see [Legal & Ethics](#legal--etika). Tools: Termux (Android-only setup).
 
 Repositori dokumentasi pembelajaran WhiteHat & SOC Analyst — fokus ke reconnaissance yang etis, analisis log, dan threat detection.
